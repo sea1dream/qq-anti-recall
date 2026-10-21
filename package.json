@@ -1,0 +1,13 @@
+{
+  "name": "@sea1dream/qq-anti-recall",
+  "version": "0.3.1",
+  "private": true,
+  "description": "Windows QQNT anti-recall compatibility fixes and local image recovery, based on xh321/LiteLoaderQQNT-Anti-Recall",
+  "license": "MIT",
+  "repository": "github:sea1dream/qq-anti-recall",
+  "scripts": {
+    "test": "node --test tests/*.test.cjs"
+  },
+  "engines": { "node": ">=18" },
+  "dependencies": { "level-party": "5.1.1" }
+}
